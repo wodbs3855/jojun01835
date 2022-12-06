@@ -6,4 +6,4 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojun01835&&show_icons=true&theme=midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojun01835&show_icons=true&theme=radical)
