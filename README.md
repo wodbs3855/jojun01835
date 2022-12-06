@@ -16,8 +16,3 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jojun01835@gmail.com)
 <br>
 <br>
-<p align="center">
-  <a href="https://github.com/devxb/CommitCombo">
-    <img src="http://commitcombo.com/theme?user=jojun01835"/>
-  </a>
-</p>
