@@ -16,4 +16,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:jojun01835@gmail.com)
 <br>
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jojun01835&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jojun01835&row=1)](https://github.com/ryo-ma/github-profile-trophy)
