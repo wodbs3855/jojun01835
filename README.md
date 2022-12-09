@@ -22,6 +22,8 @@
 <br>
 
 ## My github stats!:pencil2:
+<br>
+<br>
 
 <div align=center>
  
@@ -34,7 +36,8 @@
 <br>
 
 ## Sns & profile
-
+<br>
+<br>
 
 <div align=center>
  
@@ -45,6 +48,7 @@
 </div>
 <br>
 <br>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=jojun01835&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
