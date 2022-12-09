@@ -2,7 +2,7 @@
  <br>
  
  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!안녕하세요!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!!&fontAlign=80&fontAlignY=40&color=gradient)
 <br>
  
 ## My Tech 
