@@ -20,4 +20,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=jojun01835&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jojun01835)](https://solved.ac/jojun01835)<br/>
+
