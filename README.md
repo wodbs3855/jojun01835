@@ -2,13 +2,14 @@
  <br>
  
  
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hello!!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=jojun0 github!&fontAlign=80&fontAlignY=40&color=gradient)
 <br>
+ 
 </div>
 
 <div align=center>
  
-## **My Tech**
+## :blue_book:**My Tech**:blue_book:
 <br>
 <br>
  
