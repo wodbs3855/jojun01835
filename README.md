@@ -45,7 +45,6 @@
 <div align=center>
  
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/jojun01835/)](https://github.com/jojun01835/)
-<img src="https://img.shields.io/badge/facebook-wihth?style=flat&logo=facebook&logoColor=wihth"/>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jojun01835@gmail.com)](mailto:jojun01835@gmail.com)
  
 </div>
